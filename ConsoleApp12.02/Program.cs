@@ -43,6 +43,18 @@ namespace ConsoleApp12._02
             //    Console.Write($"{el}\t");
             //}
             //Console.ReadKey();
+           //task-3
+           //int[] omas = new int[7];
+           // for (int i = 0; i < omas.Length; i++)
+           // {
+           //     omas[i] = i; 
+          //  }
+
+           // foreach (int el in omas)
+           // {
+            //    Console.Write($"{el}\t");
+          //  }
+           // Console.ReadKey();
             //task4
             //int[] omas = new int[6];
             //Random random = new Random();
